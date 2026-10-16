@@ -1,6 +1,6 @@
 import streamlit as st
-from menu1 import Menu
-from database1 import Database
+from menu import Menu
+from database import Database
 
 
 def main():
