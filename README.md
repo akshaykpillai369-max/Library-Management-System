@@ -21,3 +21,6 @@ You able to
 - clone this repo
 - in the terminal run streamlit run app.py
 - that's all you hosted this locally, congrats
+- 
+# License
+This project is licensed under the [Akshay] License - see the LICENSE.md file for details
