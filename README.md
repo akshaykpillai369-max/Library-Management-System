@@ -13,6 +13,10 @@ You able to
 - able to return the borrowed book
 - and able to see all books that are available
 
+# Stack
+
+- Streamlit (Python framework)
+
 # Screenshot
 
 <img width="1290" height="713" alt="image" src="https://github.com/user-attachments/assets/f4bb5140-3a66-4b18-8335-2c966e5d6411" />
